@@ -13,7 +13,8 @@ Download the <a href = "http://www.sojamo.de/libraries/controlP5/"> ControlP5 Li
 
 Open Processing and go to *Sketch* on the top bar and click *import library* and click *ControlP5*
 
-Alternatively you can type:
+Alternatively you can type: 
+<br>
 import controlP5.*;
 
 ---
