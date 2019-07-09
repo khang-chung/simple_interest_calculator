@@ -5,7 +5,9 @@
 Developed in the <a href ="https://processing.org/"> Processing IDE </a>
 
 Requires <a href = "http://www.sojamo.de/libraries/controlP5/"> ControlP5 Library</a>
+
 <br><br>
+
 *ControlP5 Instructions*
 
 Download the <a href = "http://www.sojamo.de/libraries/controlP5/"> ControlP5 Library</a>
