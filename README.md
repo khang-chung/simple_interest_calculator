@@ -15,7 +15,7 @@ Open Processing and go to *Sketch* on the top bar and click *import library* and
 
 Alternatively you can type: 
 <br>
-import controlP5.*;
+**import controlP5.*;**
 
 ---
 
