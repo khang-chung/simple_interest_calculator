@@ -1,6 +1,6 @@
 ## Simple Interest Calculator
 
-<img src = "images/simple interest calculator image.png">
+<img src = "https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image.png?raw=true">
 
 Developed in the <a href ="https://processing.org/"> Processing IDE </a>
 
